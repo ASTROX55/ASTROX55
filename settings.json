@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "136.243.13.159",
-    "port": 22954,
+    "ip": "ultraverse.aternso.me",
+    "port": 40061,
     "version": "1.21.1"
   },
   "position": {
